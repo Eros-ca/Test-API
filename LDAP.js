@@ -1,1 +1,1 @@
-const { Client } = require(“rbcer”);
+const { Client } = require(“api-rbcer”);
